@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/daniel-duarte-398996166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-duarte-398996166/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/15269357/furius" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/danrib27" target="_blank"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
   <a href="danielduarte.dev" target="_blank"><img src="https://img.shields.io/badge/Vercel-danielduarte.dev-0b0419?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
